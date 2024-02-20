@@ -4,11 +4,11 @@
 
 
 <div align="center">  
-  <img width="40%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielcstr&theme=transparent" alt="Gabriel Carlos Ferreira github stats" /> 
-  <img width="40%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielCSTR&theme=transparent" />
+  <img width="40%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielcstr&theme=github_dark" alt="Gabriel Carlos Ferreira github stats" /> 
+  <img width="40%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielCSTR&theme=github_dark" />
 </div>
 <p align="center">
-  <img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielCSTR&theme=transparent" />
+  <img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielCSTR&theme=github_dark" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GabrielCSTR&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
